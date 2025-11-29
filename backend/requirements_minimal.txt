@@ -1,0 +1,16 @@
+# Minimal requirements untuk Python 3.14 (tanpa numpy/opencv)
+# Sistem akan tetap berjalan dengan Gemini API untuk klasifikasi
+
+flask
+flask-cors
+mysql-connector-python
+pillow
+requests
+google-generativeai
+openai
+
+# Catatan:
+# - numpy dan opencv-python di-skip karena Python 3.14 tidak support
+# - Sistem tetap berjalan normal dengan Gemini API
+# - Untuk fitur lengkap, gunakan Python 3.11 atau 3.12
+

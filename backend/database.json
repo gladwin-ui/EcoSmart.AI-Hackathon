@@ -1,0 +1,149 @@
+{
+  "users": {
+    "CARD_DEFAULT": {
+      "name": "User Demo",
+      "saldo": 0,
+      "history": []
+    },
+    "MANUAL_WEB_TEST": {
+      "name": "User Baru",
+      "saldo": 33000,
+      "history": [
+        {
+          "timestamp": "2025-11-26 21:40:03.371274",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "ANORGANIK",
+          "score": "0.95"
+        },
+        {
+          "timestamp": "2025-11-26 21:43:11.667845",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "ANORGANIK",
+          "score": "0.60"
+        },
+        {
+          "timestamp": "2025-11-26 21:47:54.573288",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "ANORGANIK",
+          "score": "0.74"
+        },
+        {
+          "timestamp": "2025-11-26 21:47:58.255043",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "ANORGANIK",
+          "score": "0.74"
+        },
+        {
+          "timestamp": "2025-11-26 21:48:01.390791",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "ANORGANIK",
+          "score": "0.74"
+        },
+        {
+          "timestamp": "2025-11-26 22:25:50.967106",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "KERTAS",
+          "score": "0.58"
+        },
+        {
+          "timestamp": "2025-11-26 22:26:12.029286",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "KERTAS",
+          "score": "0.95"
+        },
+        {
+          "timestamp": "2025-11-26 22:26:25.788241",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "KERTAS",
+          "score": "0.82"
+        },
+        {
+          "timestamp": "2025-11-26 22:26:36.859051",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "KERTAS",
+          "score": "0.56"
+        },
+        {
+          "timestamp": "2025-11-26 23:27:16.928284",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "KERTAS",
+          "score": "0.82"
+        },
+        {
+          "timestamp": "2025-11-26 23:27:22.941834",
+          "card_id": "MANUAL_WEB_TEST",
+          "trash_type": "ANORGANIK",
+          "score": "0.95"
+        }
+      ]
+    }
+  },
+  "logs": [
+    {
+      "timestamp": "2025-11-26 21:40:03.371274",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "ANORGANIK",
+      "score": "0.95"
+    },
+    {
+      "timestamp": "2025-11-26 21:43:11.667845",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "ANORGANIK",
+      "score": "0.60"
+    },
+    {
+      "timestamp": "2025-11-26 21:47:54.573288",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "ANORGANIK",
+      "score": "0.74"
+    },
+    {
+      "timestamp": "2025-11-26 21:47:58.255043",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "ANORGANIK",
+      "score": "0.74"
+    },
+    {
+      "timestamp": "2025-11-26 21:48:01.390791",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "ANORGANIK",
+      "score": "0.74"
+    },
+    {
+      "timestamp": "2025-11-26 22:25:50.967106",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "KERTAS",
+      "score": "0.58"
+    },
+    {
+      "timestamp": "2025-11-26 22:26:12.029286",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "KERTAS",
+      "score": "0.95"
+    },
+    {
+      "timestamp": "2025-11-26 22:26:25.788241",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "KERTAS",
+      "score": "0.82"
+    },
+    {
+      "timestamp": "2025-11-26 22:26:36.859051",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "KERTAS",
+      "score": "0.56"
+    },
+    {
+      "timestamp": "2025-11-26 23:27:16.928284",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "KERTAS",
+      "score": "0.82"
+    },
+    {
+      "timestamp": "2025-11-26 23:27:22.941834",
+      "card_id": "MANUAL_WEB_TEST",
+      "trash_type": "ANORGANIK",
+      "score": "0.95"
+    }
+  ]
+}

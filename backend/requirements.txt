@@ -1,0 +1,10 @@
+flask
+flask-cors
+mysql-connector-python
+opencv-python
+tensorflow
+numpy
+pillow
+requests
+google-generativeai
+openai
